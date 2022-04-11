@@ -1,0 +1,40 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #48cebc;
+    background-image: url("https://www.parmais.com.br/wp-content/uploads/2022.02.25-Atualizacao-Fundos-de-Investimentos-Artigo-Blog.png")
+}
+
+.centralizar {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+
+}
+.apagar{
+    background-color: red;
+    color: gainsboro;
+}
+.igual{
+    background-color: green;
+    color: black;
+}
+
+button {
+    border: none;
+    border-radius: 60px;
+    Box-shadow: 2px 2px #000000;
+    padding: 20px;
+    text-decoration: none;
+    background-color: #48cebc;
+    color:rgb(255, 255, 255)
+}
+
+input {
+    font-size: 15px;
+}
+
+h1 {
+    text-align: center;
+}
